@@ -1,2 +1,2 @@
 # FACE-RECOGNITION
-first of all collect tha data then recognise the face
+First of all collect tha data then recognise the face.
